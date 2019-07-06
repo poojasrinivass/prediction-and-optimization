@@ -1,4 +1,4 @@
-# Digital VLSI Design - Algorithm Based Project
+# Digital VLSI Design - Model Based Project
 - Implementation of 5 different Machine Learning Models to predict the Leakage and Delay values of a given Technology for a specific circuit.
 
 #### Pooja Srinivas - 20171403
